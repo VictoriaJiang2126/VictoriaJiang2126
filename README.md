@@ -1,8 +1,8 @@
-<h1 align="center">Hi👋, I'm Victoria！😊</h1>
+<h1 align="center">Hi👋, I'm Victoria！🦋</h1>
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 
-- 👯 Hi there! I'm Victoria Jiang👋. I'm currently pursuing a Master's degree in Computer Engineering with a focus on Software Engineering at the University of Toronto. I completed my Bachelor's degree at the Beijing University of Posts and Telecommunications in China.
+- 👯 Hi there! I'm Victoria Jiang 💙. I'm currently pursuing a Master's degree in Computer Engineering with a focus on Software Engineering at the University of Toronto. I completed my Bachelor's degree at the Beijing University of Posts and Telecommunications in China.
 
 - 🔭 I’m presently working as a FullStack Developer Intern at Microsoft AI.
   
