@@ -10,7 +10,7 @@
 
 - ❤️ I'm passionate about FullStack Development, both Frontend and Backend, and I'm always excited to tackle real-world challenges with innovative solutions.
 
-- 📫 How to reach me  **victoria.jiang2126@gmail.com** | [LinkedIn](https://www.linkedin.com/in/yingchen-jiang-4a832730a//)
+- 📫 How to reach me  **victoria.jiang2126@gmail.com** | [LinkedIn](https://www.linkedin.com/in/yingchen-jiang-4a832730a)
 
 ## Frontend Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
