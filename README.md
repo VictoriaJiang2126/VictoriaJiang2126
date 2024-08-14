@@ -2,13 +2,11 @@
 <h3 align="center">A passionate fullstack developer from China</h3>
 
 
-- 👯 Hi there! I'm Victoria Jiang 💙. I'm currently pursuing a Master's degree in Computer Engineering with a focus on Software Engineering at the University of Toronto. I completed my Bachelor's degree at the Beijing University of Posts and Telecommunications in China.
+- 👯 Hi there! I'm Victoria Jiang 💙. I'm currently pursuing a Master's degree in Computer Engineering at the University of Toronto. I completed my Bachelor's degree at the Beijing University of Posts and Telecommunications in China.
 
 - 🔭 I’m presently working as a FullStack Developer Intern at Microsoft AI.
   
-- 🤝 I have strong programming skills in Java, TypeScript, C#, and Python, and I'm familiar with frameworks like Springboot, React, .NET, and Flask. My experience spans FullStack software development as well as LLM Agent development.
-
-- ❤️ I'm passionate about FullStack Development, both Frontend and Backend, and I'm always excited to tackle real-world challenges with innovative solutions.
+- 🤝 I have strong programming skills in Java, TypeScript, C#, and Python, and I'm familiar with frameworks like Springboot, React, .NET, and Flask. My experience spans FullStack software development as well as LLM Agent development, and I'm always excited to tackle real-world challenges with innovative solutions.
 
 - 📫 How to reach me  **victoria.jiang2126@gmail.com** | [LinkedIn](https://www.linkedin.com/in/yingchen-jiang-4a832730a)
 
